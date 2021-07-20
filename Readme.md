@@ -28,6 +28,6 @@ $ gulp compress
 
 You can find compressed images in: `compressed/images/`
 
-## Quality of compressen images
+## Quality of compressed images
 
 You can control the compression level of images in `julpfile.js` by changing the value of `quality`. Default value is `50`
