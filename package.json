@@ -1,0 +1,11 @@
+{
+  "name": "image-minify",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Mirlan <urzhanovmirlan@gmail.com>",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
